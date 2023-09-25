@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en-us">
     
 <head>
@@ -127,22 +125,3 @@
         <br />
 
         
-  <a href="" target='_blank'>
-        <div class="container">
-            <div class="pics">
-                <img class="portrait" src="cpai.png" alt="Sandrine Schiller" />
-                 <a href="mailto:c.fierro@di.ku.dk" target='_blank'><img class="contact" style="bottom:120px" src="pict/email.png"></a>
-                <a href="https://twitter.com/constanzafierro?lang=en"><img class="contact" style="bottom:70px" src="pict/twitter.png" /></a>
-                <a href="https://scholar.google.com/citations?user=uYCIJSEAAAAJ&hl=en"><img class="contact" style="bottom:20px"
-                        src="pict/scholar.png"></a>
-            </div>
-            <a target='_blank'>
-                <p class="name">Sandrine Schiller</p>
-                <p class="desc">Postdoc<br/> AI, Ethics<p>
-            </a>
-        </div>
-    </a>
-
- </body>
-
-</html>
