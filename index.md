@@ -119,11 +119,11 @@
 
 <body>
     <div class="midalign">
-        <img src="pict/cpai.png" alt="CPAI logo" />
+        <img src="cpai.png" alt="CPAI logo" />
         <br />
-        <a href="https://twitter.com/coastalcph"><img id="grouptwitter" src="pict/twitter.png"></a>
+        <a href="https://twitter.com/cpaicph"><img id="grouptwitter" src="pict/twitter.png"></a>
         <br />
-        <p style="margin: auto; font-size: 28px">Doing research at the intersection of AI, machine learning, philosophy of mind, and ethics, all sponsored by <a href="https://www.carlsbergfondet.dk/en">CRF</a> and <a href="https://www.aicentre.dk/">Pioneer Centre for AI></a>.</p>
+        <p style="margin: auto; font-size: 22px">Doing research at the intersection of AI, machine learning, philosophy of mind, and ethics, all sponsored by <a href="https://www.carlsbergfondet.dk/en">CRF</a> and <a href="https://www.aicentre.dk/">Pioneer Centre for AI></a>.</p>
         <br />
 
         
