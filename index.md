@@ -119,7 +119,7 @@
 
 <body>
     <div class="midalign">
-        <img src="cpai.png" alt="CPAI logo" />
+        <img src="cpai.png" alt="CPAI" />
         <br />
         <a href="https://twitter.com/cpaicph"><img id="grouptwitter" src="pict/twitter.png"></a>
         <br />
